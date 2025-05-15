@@ -4,7 +4,7 @@
 
 This project involves the analysis of a Diwali sales dataset to extract meaningful business insights and understand customer purchasing behavior. The goal is to identify key trends that can help improve marketing strategies and optimize sales performance.
 
-**Objectives**
+🔍**Objectives**
 
 Clean and preprocess raw sales data for accurate analysis.
 Perform exploratory data analysis (EDA) to uncover trends and patterns.
