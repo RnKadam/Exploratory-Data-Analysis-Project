@@ -1,5 +1,5 @@
 # Sales-Data-Analysis-Project
-***
+
 📌 **Overview**
 
 This project involves the analysis of a sales dataset to extract meaningful business insights and understand customer purchasing behavior. The goal is to identify key trends that can help improve marketing strategies and optimize sales performance.
